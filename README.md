@@ -23,7 +23,7 @@
 
 
 ## How To Reach Me
-[facebook](https://facebook.com)
-[github](https://github.com)
-[instagram](https://instagram.com)
-[linkedIn](https://linkedin.com)
+- [facebook](https://web.facebook.com/ervinrey.capuno.3)
+- [github](https://github.com/Ervin-Capuno)
+- [instagram](https://www.instagram.com/caps.tree/)
+- [linkedIn](https://linkedin.com)
