@@ -26,4 +26,4 @@
 - [facebook](https://web.facebook.com/ervinrey.capuno.3)
 - [github](https://github.com/Ervin-Capuno)
 - [instagram](https://www.instagram.com/caps.tree/)
-- [linkedIn](https://linkedin.com)
+- [linkedIn](https://www.linkedin.com/in/ervin-rey-capuno-a64529287/)
