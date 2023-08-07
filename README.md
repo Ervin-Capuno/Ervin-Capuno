@@ -14,7 +14,7 @@
 
 ## My Projects and Upcoming(Dream) Projects
 
-- [x] [Crud System using Python](https://github.com)
+- [x] [Crud System using Python](https://github.com/Ervin-Capuno/SimpleCrudPython)
 - [ ] Keylogger using Python
 - [ ] Portfolio Website
 - [ ] Trade Skills Website 
