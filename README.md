@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, There! 👋
 
-<!--
-**Ervin-Capuno/Ervin-Capuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+> I am Ervin Rey Capuno from Sta. Monica, San Luis, Batangas a 21 year-old boy.
+> Studying at Batangas State University - The National Engineering University. 
+> Currently enrolled in the program of Bachelor of Science in Information Technology major in Network Technology.
+> Currently learning *Internet of Things*, *Linux Environment*, *Docker*, and *Android Development with kotlin Composable.*
+>  __*-Future Android Developer/Cybersecurity Specialist: Ervin Rey Capuno*__
 
-Here are some ideas to get you started:
+## Programming Language Used
+- Kotlin
+- Python
+- C++(Arduino)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects and Upcoming(Dream) Projects
+
+- [x] [Crud System using Python](https://github.com)
+- [ ] Keylogger using Python
+- [ ] Portfolio Website
+- [ ] Trade Skills Website 
+- [ ] Online Game using Python
+- [ ] Sprinkler Water System using Arduino
+
+
+## How To Reach Me
+[facebook](https://facebook.com)
+[github](https://github.com)
+[instagram](https://instagram.com)
+[linkedIn](https://linkedin.com)
