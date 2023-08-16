@@ -15,6 +15,7 @@
 ## My Projects and Upcoming(Dream) Projects
 
 - [x] [Crud System using Python](https://github.com/Ervin-Capuno/SimpleCrudPython)
+- [x] [Carbon Footprint using C++](https://github.com/Ervin-Capuno/Carbon_Footprint-using-c-)
 - [ ] Keylogger using Python
 - [ ] Portfolio Website
 - [ ] Trade Skills Website 
