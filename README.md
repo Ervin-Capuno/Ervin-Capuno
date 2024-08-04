@@ -15,8 +15,8 @@
 
 - [x] [Crud System using Python](https://github.com/Ervin-Capuno/SimpleCrudPython)
 - [x] [Carbon Footprint using C++](https://github.com/Ervin-Capuno/Carbon_Footprint-using-c-)
-- [x] Keylogger using Python(https://github.com/Ervin-Capuno/keylogger)
-- [ ] Portfolio Website(https://ervin-capuno.github.io/ervin_capuno_website)
+- [x] [Keylogger using Python](https://github.com/Ervin-Capuno/keylogger)
+- [x] [Portfolio Website](https://ervin-capuno.github.io/ervin_capuno_website)
 - [ ] Online Game using Python
 - [ ] Sprinkler Water System using Arduino
 
