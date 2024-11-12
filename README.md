@@ -3,7 +3,7 @@
 ## About Me
 > Studying at Batangas State University - The National Engineering University. 
 > Currently enrolled in the program of Bachelor of Science in Information Technology major in Network Technology.
-> Currently learning *Python especially flask, Internet of Things, and Flutter.*
+> Currently learning *Python especially flask, Internet of Things, and Computer Networking.*
 
 >  __*-Future Android Developer/Cybersecurity Specialist: Ervin Rey Capuno*__
 
